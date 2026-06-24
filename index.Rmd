@@ -37,9 +37,9 @@ knitr::opts_chunk$set(echo = TRUE)
  
 ## Download and Install RStudio Desktop
  
-1. go to https://posit.co/download/rstudio-desktop/
-2. Click the Blue button under "2: Install RStudio"
-3. When the file finishes downloading, do what you would normally do to install a program on your system
+1. go to <https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads>
+2. Click the download link for your operating system. Windows users should click the file ending in `.exe`.
+3. When the file finishes downloading, do what you would normally do to install a program on your system.
 4. Start RStudio and ensure it opens with no error messages. You should see something similar to the image below.
  
 NOTE: **The current version of RStudio requires macOS 13+.** If you are running an older version of macOS, you will need to download an older version of RStudio from [https://docs.posit.co/previous-versions/rstudio/](https://docs.posit.co/previous-versions/rstudio/). See [This post](https://community.rstudio.com/t/rstudio-desktop-releases-on-unsupported-versions-of-macos/176074?_gl=1*os3sl6*_ga*NTMzMzgwMzYxLjE2OTk5MDk3MDk.*_ga_2C0WZ1JHG0*MTcwNjAyMjAyNC4xOS4xLjE3MDYwMjIwNjMuMC4wLjA.) on the RStudio community forum for  a list of RStudio releases certified for each version of MacOS when the operating system was supported.
